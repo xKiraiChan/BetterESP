@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterESP", "BetterESP.csproj", "{5E2BCD0B-C58B-4EA3-9F10-00A188590FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2BCD0B-C58B-4EA3-9F10-00A188590FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2BCD0B-C58B-4EA3-9F10-00A188590FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2BCD0B-C58B-4EA3-9F10-00A188590FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2BCD0B-C58B-4EA3-9F10-00A188590FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DC42A3-9DF8-4490-8AC6-60E079363EB7}
+	EndGlobalSection
+EndGlobal
